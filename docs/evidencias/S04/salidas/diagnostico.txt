@@ -1,0 +1,51 @@
+==============================================================================
+DIAGNOSTICO DE LAS DECLARACIONES PUBLICADAS - Bitel Peru
+==============================================================================
+Direccion de la pagina        : https://bitel.com.pe/nosotros/history-of-bitel
+Fecha de consulta             : 10 de septiembre de 2026
+Publica vision                : Si, en la misma pagina institucional
+Prueba de la decision         : No comprobable desde informacion publica
+
+MISION - 53 palabras
+Desarrollo para los peruanos y la sociedad: Bitel siempre trata de ser creativo y cambiarnos a nosotros mismos para contribuir a mejorar la calidad de vida de los peruanos y la sociedad. Asimismo, Bitel continua innovando, en conjunto con los clientes para crear productos y servicios que hacen la vida y trabajo facil.
+
+Cinco componentes
+[SI] Que hacemos            crear productos y servicios
+[SI] Para quien             los peruanos y la sociedad; los clientes
+[SI] Como nos distingue     continua innovando, en conjunto con los clientes
+[SI] Para que               contribuir a mejorar la calidad de vida; hacen la vida y trabajo facil
+[SI] Con que compromiso     siempre trata de ser creativo y cambiarnos a nosotros mismos
+Resultado: 5 de 5 componentes
+
+Siete defectos
+[X] Intercambiable                 Conserva sentido al atribuirla a Claro, Entel o Integratel; no contiene una capacidad exclusiva
+[ ] Confunde mision con vision     
+[ ] Enumera valores                
+[ ] Omite al destinatario          
+[X] Extension desmedida            53 palabras; limite practico usado por el instrumento: 50
+[ ] Contradice la practica         No existe evidencia publica suficiente para sostener una contradiccion general
+[ ] Escrita por una sola persona   El proceso de formulacion no es verificable desde la pagina publica
+
+Prueba de sustitucion
+- Claro Peru: la declaracion conserva sentido general
+- Entel Peru: la declaracion conserva sentido general
+- Integratel Peru: la declaracion conserva sentido general
+Resultado: FALLA la prueba de sustitucion
+Prueba de la decision: NO COMPROBABLE desde informacion publica
+Prueba del reconocimiento: NO COMPROBABLE sin consulta a trabajadores
+VEREDICTO DE LA MISION: SE REFORMULA - falla la prueba de sustitucion
+
+VISION - 47 palabras
+Lider en telecomunicaciones y tecnologia de la informacion (TIC), fuerza principal para crear la sociedad digital. Bitel es pionero en desplegar tecnologia 4.0 y crear plataformas digitales para cada persona, la organizacion en conjunto contribuye y crea nuevos valores para el desarrollo del pais y los peruanos.
+
+Cinco atributos
+[NO] Temporalmente acotada        No declara fecha ni horizonte
+[NO] Verificable                  No incluye una cifra meta verificable
+[NO] Ambiciosa pero alcanzable    Bitel ocupa el segundo lugar por lineas activas, pero la declaracion no fija plazo ni meta
+[SI] Especifica del negocio       Menciona telecomunicaciones, TIC, tecnologia 4.0 y plataformas digitales
+[NO] Movilizadora                 No permite determinar cuanto invertir ni que resultado cuantitativo priorizar
+Resultado automatico conservador: 1 de 5 atributos
+Revision cualitativa: verificable y alcanzable son PARCIALES, no logros completos
+VEREDICTO DE LA VISION: SE REFORMULA - solo 1 de 5 atributos esta completo
+
+Grafico generado: C:/Users/Mi Equipo/Documents/Codex/2026-09-10/https-github-com-oscarjimenezflores-peti-blob/work/SI886-PETI-YUPAFATIMA/docs/evidencias/S04/MV_diagnostico_declaraciones.png
