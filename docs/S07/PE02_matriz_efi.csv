@@ -1,0 +1,10 @@
+id,factor,peso,calificacion,justificacion_peso
+F1,HIS clínico en servidor propio,0.08,3,"Capacidad que soporta el proceso clínico y sirve como base de integración; existe, pero el caso no demuestra ventaja competitiva"
+F2,PACS en servidor dedicado,0.06,3,"Activo operativo de apoyo diagnóstico; peso prudente porque no se documentan niveles de servicio, redundancia ni diferenciación"
+F3,Equipo de TI de cuatro personas,0.06,3,"Capacidad interna identificada y necesaria para operar; peso acotado porque no se acredita disponibilidad ni especialización suficiente"
+D1,34 resultados asociados al paciente equivocado en 2025,0.22,1,"Mayor peso por efecto potencial en seguridad del paciente y por cifra explícita del caso"
+D2,Transferencia LIS-HIS mediante archivo manual dos veces al día,0.20,1,"Peso alto por dependencia manual, oportunidad de información y vínculo directo con D1"
+D3,Dos personas comparten cuentas de administrador,0.18,1,"Peso alto por falta de atribución individual de acciones privilegiadas y exposición transversal"
+D4,Planillas en una PC de RR.HH. sin soporte vigente,0.10,2,"Peso medio: continuidad administrativa en riesgo, aunque el caso no documenta interrupciones ni ausencia de respaldo"
+D5,Borrador PETI propone IA clínica y data lake por S/ 3.1 millones sin sustento suficiente,0.10,1,"Peso medio: debilidad de planeamiento del borrador; no se afirma que la clínica ya haya ejecutado o aprobado la inversión"
+

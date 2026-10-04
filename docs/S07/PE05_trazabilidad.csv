@@ -1,0 +1,14 @@
+evidencia_del_diagnostico,seccion_origen,factor,estrategia,objetivo,proyecto
+"Existe un HIS en servidor propio; su interoperabilidad no se presume.","Caso 02, encargo; 3.1 Aplicaciones",F1,E-01,Mejorar oportunidad y exactitud del intercambio clínico,Integración segura LIS-HIS
+"El caso reporta PACS en servidor dedicado.","Caso 02, encargo; 3.1 Infraestructura",F2,E-02,Evaluar un canal digital útil y accesible,Canal digital de resultados con evaluación de usuarios
+"El área de TI está compuesta por cuatro personas.","Caso 02, encargo; 3.1 Capacidad de TI",F3,E-03,Ordenar la gobernanza y priorización de TI,Hoja de ruta y gobierno de TI
+"La clínica procesa datos de salud y la guía ANPD establece el Reglamento vigente.","Caso 02; 3.3 PESTEL A1",A1,E-04,Reducir exposición de datos personales de salud,Programa de privacidad y seguridad clínica
+"El régimen RAEE incluye responsabilidad por destrucción de datos en medios de almacenamiento entregados.","D.S. 009-2019-MINAM art. 26.2; 3.3 PESTEL A3",A3,E-05,Gestionar renovación y disposición segura de equipos,Gestión de activos clínicos y RAEE
+"BCRP documenta variaciones mensuales; el caso no informa proporción de compras en divisas.","BCRP PN01210PM; 3.3 PESTEL A4",A4,E-06,Controlar incertidumbre económica en adquisiciones,Evaluación de compras y exposición cambiaria
+"El caso registra 34 resultados mal asociados en 2025.","Caso 02, encargo; 3.1 Aplicaciones",D1,E-07,Evitar errores de correspondencia LIS-HIS,Integración segura LIS-HIS
+"Los resultados LIS-HIS se transfieren mediante archivo manual dos veces al día.","Caso 02, encargo; 3.1 Interoperabilidad",D2,E-08,Reducir demora de transferencia y validar el canal,Canal digital de resultados con evaluación de usuarios
+"El borrador propone S/ 3.1 millones para IA y data lake sin sustento documentado.","Caso 02, borrador consultor; 3.1 Planeamiento",D5,E-09,Exigir evidencia de valor y control antes de IA clínica,Gobierno de datos y piloto analítico acotado
+"Dos personas de TI comparten cuentas de administrador.","Caso 02, encargo; 3.1 Seguridad",D3,E-10,Aumentar atribución y control de accesos privilegiados,Identidad privilegiada y auditoría
+"Planillas opera en una PC de RR.HH. sin soporte vigente.","Caso 02, encargo; 3.1 Infraestructura",D4,E-11,Asegurar continuidad administrativa con costo conocido,Planillas soportada y recuperación probada
+"La regulación de historia clínica y el caso de identificación errónea requieren control del registro.","Caso 02; NTS 139; 3.3 PESTEL A2",A2,E-12,Reducir riesgo clínico por asignación incorrecta,Validación de identidad y conciliación de resultados
+

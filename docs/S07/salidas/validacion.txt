@@ -1,0 +1,9 @@
+VALIDACIÓN DEL TALLER 07 · 4 de octubre de 2026
+PESTEL: 8 factores; 6 dimensiones; todas las decisiones están especificadas.
+EFI: suma de pesos 1.00; total ponderado 1.50 frente a 2.50.
+EFE: suma de pesos 1.00; total ponderado 1.14 frente a 2.50.
+FODA: 12 estrategias; distribución DA=3, DO=3, FA=3, FO=3.
+Priorización: 12 estrategias; mayor puntaje E-12 = 0.5670.
+Trazabilidad: 12 filas.
+Resultado: controles de la guía satisfechos; ratings EFE A3/A4 son provisionales por falta de evidencia interna.
+

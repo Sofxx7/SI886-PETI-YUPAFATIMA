@@ -1,0 +1,10 @@
+id,factor,peso,calificacion,justificacion_peso,ponderado
+O1,Adopción de Internet como base para evaluar canales de atención,0.1,1,Oportunidad social pertinente a un eventual canal; el dato es nacional y su ajuste al segmento de pacientes debe validarse,0.1
+O2,Interoperabilidad con estándar IPS Perú y HL7 FHIR,0.2,1,Oportunidad tecnológica más conectada con la brecha LIS-HIS observada; compatibilidad no está acreditada,0.2
+O3,Política Nacional de Transformación Digital al 2030,0.08,1,Marco nacional útil como referencia aplicable; no es una obligación de gestión pública para la clínica,0.08
+O4,Guía ética de la OMS para IA en salud,0.1,1,Criterios para evaluar de forma responsable una eventual analítica o IA; el borrador no demuestra respuesta suficiente,0.1
+A1,Reglamento de Protección de Datos Personales,0.18,1,Relevancia elevada por tratar datos de salud y existir cuentas privilegiadas compartidas; la calificación mide respuesta evidenciada,0.18
+A2,Norma de gestión de historias clínicas e identificación correcta,0.2,1,Peso máximo por relación con el registro clínico y 34 resultados mal asociados en 2025,0.2
+A3,Gestión de RAEE con borrado de soportes,0.07,2,Peso menor por impacto menos inmediato; no hay evidencia en el caso para afirmar cumplimiento o incumplimiento,0.14
+A4,Variación del tipo de cambio en adquisiciones de TI,0.07,2,Peso menor porque no se conoce la proporción de compras en moneda extranjera ni políticas de cobertura,0.14
+
