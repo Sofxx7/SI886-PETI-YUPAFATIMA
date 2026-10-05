@@ -1,0 +1,9 @@
+TALLER 07 · comprobación aritmética y estructural
+PESTEL: 8 factores; 6 dimensiones; fuentes y decisiones registradas.
+EFI: pesos 1.00; total 2.46 frente a 2.50.
+EFE: pesos 1.00; total 2.49 frente a 2.50.
+FODA: 12 estrategias; DA=3, DO=3, FA=3, FO=3
+Prioridad mayor: E-10 = 0.3780.
+Trazabilidad: 24 filas; dos factores por estrategia.
+Nota: estas comprobaciones no validan supuestos internos; ratings y brechas son provisionales por falta de PETI 3.1/3.2.
+

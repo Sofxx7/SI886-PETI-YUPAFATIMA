@@ -1,0 +1,10 @@
+id,factor,peso,calificacion,justificacion_peso,nota_calificacion,ponderado
+O1,Contratos y compromisos de despliegue 5G,0.14,3,Compromiso público relevante para cobertura; falta traducir obligaciones específicas en cronograma interno.,3 por firma acreditada; cumplimiento futuro no verificado.,0.42
+O2,Brecha de uso de Internet por lengua materna,0.09,2,Factor de inclusión importante; no se conoce su incidencia entre clientes Bitel.,2 provisional por falta de respuesta específica en las fuentes revisadas; no significa inacción real.,0.18
+O3,Crecimiento de tráfico móvil y transición tecnológica,0.14,3,Tendencia material para el negocio y la capacidad de red; permite medir respuesta comercial observable.,3 por oferta 5G y participación de tráfico; no mide suficiencia de capacidad.,0.42
+A1,Competencia por líneas y retención,0.16,3,Alto impacto en posición y sostenibilidad comercial.,3 provisional apoyado en posición de mercado; no prueba retención.,0.48
+A2,Variación cambiaria en compras de tecnología,0.12,2,Impacto potencial en costos; exposición real de Bitel desconocida.,2 provisional; mitigación interna no evaluada con fuentes públicas.,0.24
+A3,Obligaciones de gestión RAEE y destrucción de datos,0.08,1,"Peso menor que privacidad/competencia por efecto más indirecto, manteniendo visible la obligación legal.",1 conservador por falta de evidencia pública; no declara incumplimiento.,0.08
+A4,Reglamento de protección de datos personales,0.14,2,Peso alto por escala de servicios y tratamiento de datos; no inspeccionamos sistemas ni procesos.,"2 provisional: hay política publicada, pero no auditoría pública de controles.",0.28
+A5,"Expectativas de atención, respuesta y solución",0.13,3,Relevante a experiencia de usuario; el ranking compara dimensiones de atención.,"3 por superar umbral general OSIPTEL, con brechas relativas en componentes.",0.39
+
